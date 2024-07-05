@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson1ADONETIntroConnectedMode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE7DF1F-427C-4DD8-873C-7D11979D35DA}|Lesson1ADONETIntroConnectedMode\\Lesson1ADONETIntroConnectedMode.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson1adonetintroconnectedmode\\lesson1adonetintroconnectedmode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE7DF1F-427C-4DD8-873C-7D11979D35DA}|Lesson1ADONETIntroConnectedMode\\Lesson1ADONETIntroConnectedMode.csproj|solutionrelative:lesson1adonetintroconnectedmode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson1ADONETIntroConnectedMode\\Lesson1ADONETIntroConnectedMode\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson1ADONETIntroConnectedMode\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson1ADONETIntroConnectedMode\\Lesson1ADONETIntroConnectedMode\\Program.cs",
+              "RelativeToolTip": "Lesson1ADONETIntroConnectedMode\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:31:14.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

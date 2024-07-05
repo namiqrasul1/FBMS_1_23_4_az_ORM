@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson1AdoNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABA3EA8-F27D-49D0-94D8-BCC679837874}|Lesson1AdoNet\\Lesson1AdoNet.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson1adonet\\lesson1adonet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABA3EA8-F27D-49D0-94D8-BCC679837874}|Lesson1AdoNet\\Lesson1AdoNet.csproj|solutionrelative:lesson1adonet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABA3EA8-F27D-49D0-94D8-BCC679837874}|Lesson1AdoNet\\Lesson1AdoNet.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson1adonet\\lesson1adonet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3ABA3EA8-F27D-49D0-94D8-BCC679837874}|Lesson1AdoNet\\Lesson1AdoNet.csproj|solutionrelative:lesson1adonet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABA3EA8-F27D-49D0-94D8-BCC679837874}|Lesson1AdoNet\\Lesson1AdoNet.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson1adonet\\lesson1adonet\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3ABA3EA8-F27D-49D0-94D8-BCC679837874}|Lesson1AdoNet\\Lesson1AdoNet.csproj|solutionrelative:lesson1adonet\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson1AdoNet\\Lesson1AdoNet\\App.config",
+              "RelativeDocumentMoniker": "Lesson1AdoNet\\App.config",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson1AdoNet\\Lesson1AdoNet\\App.config",
+              "RelativeToolTip": "Lesson1AdoNet\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-05T06:49:44.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson1AdoNet\\Lesson1AdoNet\\Form1.cs",
+              "RelativeDocumentMoniker": "Lesson1AdoNet\\Form1.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson1AdoNet\\Lesson1AdoNet\\Form1.cs",
+              "RelativeToolTip": "Lesson1AdoNet\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:48:07.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson1AdoNet\\Lesson1AdoNet\\Form1.cs",
+              "RelativeDocumentMoniker": "Lesson1AdoNet\\Form1.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson1AdoNet\\Lesson1AdoNet\\Form1.cs [Design]",
+              "RelativeToolTip": "Lesson1AdoNet\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:43:58.168Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
