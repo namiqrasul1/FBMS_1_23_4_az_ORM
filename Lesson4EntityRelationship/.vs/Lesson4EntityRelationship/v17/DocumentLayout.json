@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7C7F4E-6C78-4053-9790-D5512CE25E4D}|Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\lesson4entityrelationship\\lesson4entityrelationship\\models\\manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7C7F4E-6C78-4053-9790-D5512CE25E4D}|Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj|solutionrelative:lesson4entityrelationship\\models\\manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712072337_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson4EntityRelationship\\Migrations\\20240712072337_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7C7F4E-6C78-4053-9790-D5512CE25E4D}|Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\lesson4entityrelationship\\lesson4entityrelationship\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7C7F4E-6C78-4053-9790-D5512CE25E4D}|Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj|solutionrelative:lesson4entityrelationship\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712072316_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson4EntityRelationship\\Migrations\\20240712072316_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712071207_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson4EntityRelationship\\Migrations\\20240712071207_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712064017_onetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson4EntityRelationship\\Migrations\\20240712064017_onetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712071152_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson4EntityRelationship\\Migrations\\20240712071152_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7C7F4E-6C78-4053-9790-D5512CE25E4D}|Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\lesson4entityrelationship\\lesson4entityrelationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7C7F4E-6C78-4053-9790-D5512CE25E4D}|Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj|solutionrelative:lesson4entityrelationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7C7F4E-6C78-4053-9790-D5512CE25E4D}|Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\lesson4entityrelationship\\lesson4entityrelationship\\models\\onetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7C7F4E-6C78-4053-9790-D5512CE25E4D}|Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj|solutionrelative:lesson4entityrelationship\\models\\onetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7C7F4E-6C78-4053-9790-D5512CE25E4D}|Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\lesson4entityrelationship\\lesson4entityrelationship\\models\\onetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7C7F4E-6C78-4053-9790-D5512CE25E4D}|Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj|solutionrelative:lesson4entityrelationship\\models\\onetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7C7F4E-6C78-4053-9790-D5512CE25E4D}|Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\lesson4entityrelationship\\lesson4entityrelationship\\lesson4entityrelationship.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B7C7F4E-6C78-4053-9790-D5512CE25E4D}|Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj|solutionrelative:lesson4entityrelationship\\lesson4entityrelationship.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240712072337_manytomany.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712072337_manytomany.cs",
+              "RelativeDocumentMoniker": "Lesson4EntityRelationship\\Migrations\\20240712072337_manytomany.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712072337_manytomany.cs",
+              "RelativeToolTip": "Lesson4EntityRelationship\\Migrations\\20240712072337_manytomany.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwEkAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:23:37.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240712072316_manytomany.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712072316_manytomany.cs",
+              "RelativeDocumentMoniker": "Lesson4EntityRelationship\\Migrations\\20240712072316_manytomany.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712072316_manytomany.cs",
+              "RelativeToolTip": "Lesson4EntityRelationship\\Migrations\\20240712072316_manytomany.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:23:16.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240712071207_manytomany.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712071207_manytomany.cs",
+              "RelativeDocumentMoniker": "Lesson4EntityRelationship\\Migrations\\20240712071207_manytomany.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712071207_manytomany.cs",
+              "RelativeToolTip": "Lesson4EntityRelationship\\Migrations\\20240712071207_manytomany.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwEkAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:12:07.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240712071152_manytomany.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712071152_manytomany.cs",
+              "RelativeDocumentMoniker": "Lesson4EntityRelationship\\Migrations\\20240712071152_manytomany.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712071152_manytomany.cs",
+              "RelativeToolTip": "Lesson4EntityRelationship\\Migrations\\20240712071152_manytomany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:11:52.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManyToMany.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Models\\ManyToMany.cs",
+              "RelativeDocumentMoniker": "Lesson4EntityRelationship\\Models\\ManyToMany.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Models\\ManyToMany.cs",
+              "RelativeToolTip": "Lesson4EntityRelationship\\Models\\ManyToMany.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:46:14.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240712064017_onetomany.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712064017_onetomany.cs",
+              "RelativeDocumentMoniker": "Lesson4EntityRelationship\\Migrations\\20240712064017_onetomany.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Migrations\\20240712064017_onetomany.cs",
+              "RelativeToolTip": "Lesson4EntityRelationship\\Migrations\\20240712064017_onetomany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:40:17.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OneToMany.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Models\\OneToMany.cs",
+              "RelativeDocumentMoniker": "Lesson4EntityRelationship\\Models\\OneToMany.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Models\\OneToMany.cs",
+              "RelativeToolTip": "Lesson4EntityRelationship\\Models\\OneToMany.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA1wDYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:08:23.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lesson4EntityRelationship",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj",
+              "RelativeDocumentMoniker": "Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj",
+              "RelativeToolTip": "Lesson4EntityRelationship\\Lesson4EntityRelationship.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T05:29:38.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ECommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Data\\ECommerceDbContext.cs",
+              "RelativeDocumentMoniker": "Lesson4EntityRelationship\\Data\\ECommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Data\\ECommerceDbContext.cs",
+              "RelativeToolTip": "Lesson4EntityRelationship\\Data\\ECommerceDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwDAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:22:12.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OneToOne.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Models\\OneToOne.cs",
+              "RelativeDocumentMoniker": "Lesson4EntityRelationship\\Models\\OneToOne.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Models\\OneToOne.cs",
+              "RelativeToolTip": "Lesson4EntityRelationship\\Models\\OneToOne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:13:04.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson4EntityRelationship\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson4EntityRelationship\\Lesson4EntityRelationship\\Program.cs",
+              "RelativeToolTip": "Lesson4EntityRelationship\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:09:41.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
