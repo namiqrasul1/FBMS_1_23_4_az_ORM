@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5Coding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A49A50C6-BCC0-4A4F-A032-EC88F0EADA90}|Lesson5Coding\\Lesson5Coding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\lesson5coding\\lesson5coding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49A50C6-BCC0-4A4F-A032-EC88F0EADA90}|Lesson5Coding\\Lesson5Coding.csproj|solutionrelative:lesson5coding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49A50C6-BCC0-4A4F-A032-EC88F0EADA90}|Lesson5Coding\\Lesson5Coding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\lesson5coding\\lesson5coding\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49A50C6-BCC0-4A4F-A032-EC88F0EADA90}|Lesson5Coding\\Lesson5Coding.csproj|solutionrelative:lesson5coding\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49A50C6-BCC0-4A4F-A032-EC88F0EADA90}|Lesson5Coding\\Lesson5Coding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\lesson5coding\\lesson5coding\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49A50C6-BCC0-4A4F-A032-EC88F0EADA90}|Lesson5Coding\\Lesson5Coding.csproj|solutionrelative:lesson5coding\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49A50C6-BCC0-4A4F-A032-EC88F0EADA90}|Lesson5Coding\\Lesson5Coding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\lesson5coding\\lesson5coding\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49A50C6-BCC0-4A4F-A032-EC88F0EADA90}|Lesson5Coding\\Lesson5Coding.csproj|solutionrelative:lesson5coding\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49A50C6-BCC0-4A4F-A032-EC88F0EADA90}|Lesson5Coding\\Lesson5Coding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\lesson5coding\\lesson5coding\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49A50C6-BCC0-4A4F-A032-EC88F0EADA90}|Lesson5Coding\\Lesson5Coding.csproj|solutionrelative:lesson5coding\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5Coding\\Lesson5Coding\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lesson5Coding\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5Coding\\Lesson5Coding\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Lesson5Coding\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:16:36.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5Coding\\Lesson5Coding\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lesson5Coding\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5Coding\\Lesson5Coding\\Models\\Category.cs",
+              "RelativeToolTip": "Lesson5Coding\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:57:01.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5Coding\\Lesson5Coding\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Lesson5Coding\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5Coding\\Lesson5Coding\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Lesson5Coding\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:54:08.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5Coding\\Lesson5Coding\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lesson5Coding\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5Coding\\Lesson5Coding\\Models\\Product.cs",
+              "RelativeToolTip": "Lesson5Coding\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:53:45.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5Coding\\Lesson5Coding\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson5Coding\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5Coding\\Lesson5Coding\\Program.cs",
+              "RelativeToolTip": "Lesson5Coding\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:53:13.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
