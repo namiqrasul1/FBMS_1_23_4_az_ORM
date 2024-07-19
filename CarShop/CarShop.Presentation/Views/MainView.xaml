@@ -1,0 +1,28 @@
+﻿<Window x:Class="CarShop.Presentation.Views.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarShop.Presentation.Views"
+        mc:Ignorable="d"
+        Title="MainView" Height="450" Width="800">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="8*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <!--Navbar-->
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Add Car" Margin="5 1 5 0" Padding="5" Command="{Binding AddCommand}" />
+                <Button Content="All Cars" Margin="5 1 5 0" Padding="5" Command="{Binding AllCarsCommand}" />
+            </StackPanel>
+
+
+            <!--Main-->
+            <Frame Content="{Binding CurrentPage}" Name="frm" NavigationUIVisibility="Hidden" Grid.Row="1"/>
+
+        </Grid>
+    </Grid>
+</Window>
