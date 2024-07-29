@@ -9,9 +9,9 @@ public static class ServiceRegistration
 {
     public static Container RegisterDataLayer(this Container container)
     {
-        container.RegisterSingleton<AppDbContext>();
-        container.RegisterSingleton<IRepository<Car>, Repository<Car>>();
-        container.RegisterSingleton<IRepository<Tag>, Repository<Tag>>();
+        container.Register<AppDbContext>();
+        container.Register<IRepository<Car>, Repository<Car>>();
+        container.Register<IRepository<Tag>, Repository<Tag>>();
 
         return container;
     }
