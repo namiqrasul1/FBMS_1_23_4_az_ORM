@@ -2,10 +2,17 @@
 using Lesson10Dapper.Models;
 using Lesson10Dapper.Models.DTOs;
 using Microsoft.Extensions.Configuration;
+using System.Data;
 using System.Data.SqlClient;
 using System.Net;
 
-using var connection = new SqlConnection("Data Source=STHQ0118-01;Initial Catalog=Library;User ID=admin;Password=admin;");
+
+Console.WriteLine(AppContext.BaseDirectory);
+var builder = new ConfigurationBuilder();
+builder.AddJsonFile(@"C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_ORM\Lesson10Dapper\Lesson10Dapper\appsettings.json");
+var config = builder.Build();
+
+using var connection = new SqlConnection(config.GetConnectionString("conStr"));
 
 #region Querying Scalar Values
 
@@ -130,7 +137,53 @@ using var connection = new SqlConnection("Data Source=STHQ0118-01;Initial Catalo
 //    }, splitOn: "Id");
 
 
+//var sql =
+//@"SELECT A.Id, A.FirstName, A.LastName, B.Id, B.Name, B.Pages, B.YearPress, B.Id_Themes, B.Id_Author, B.Id_Category, B.Id_Press, Comment, Quantity 
+//FROM Authors A JOIN Books B ON A.Id = B.Id_Author";
 
+//var authorDict = new Dictionary<int, Author>();
+
+//var authors = connection.Query<Author, Book, Author>(
+//    sql,
+//    (author, book) =>
+//    {
+//        if (!authorDict.TryGetValue(author.Id, out var currentAuthor))
+//        {
+//            currentAuthor = author;
+//            authorDict.Add(author.Id, currentAuthor);
+//        }
+//        if (book != null)
+//        {
+//            book.Author = currentAuthor;
+//            currentAuthor.Books.Add(book);
+//        }
+//        return currentAuthor;
+//    },
+//    splitOn: "Id"
+//    ).ToList();
+
+
+
+#endregion
+
+
+#region Stored Procedure
+
+//var procName = "GetAuthorBook";
+
+//var parameters = new { AuthorId = 5 };
+
+//var result = connection.Query<Book>(procName, parameters, commandType: CommandType.StoredProcedure).ToList();
+
+var procName = "GetBookCountByAuthor";
+
+var parameters = new DynamicParameters();
+parameters.Add("@AuthorId", 5, DbType.Int32, ParameterDirection.Input);
+parameters.Add("@bookCount", dbType: DbType.Int32, direction: ParameterDirection.Output);
+
+connection.Execute(procName, parameters, commandType: CommandType.StoredProcedure);
+
+var result = parameters.Get<int>("@bookCount");
 
 
 #endregion
