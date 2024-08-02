@@ -175,16 +175,24 @@ using var connection = new SqlConnection(config.GetConnectionString("conStr"));
 
 //var result = connection.Query<Book>(procName, parameters, commandType: CommandType.StoredProcedure).ToList();
 
-var procName = "GetBookCountByAuthor";
+//var procName = "GetBookCountByAuthor";
+
+//var parameters = new DynamicParameters();
+//parameters.Add("@AuthorId", 5, DbType.Int32, ParameterDirection.Input);
+//parameters.Add("@bookCount", dbType: DbType.Int32, direction: ParameterDirection.Output);
+
+//connection.Execute(procName, parameters, commandType: CommandType.StoredProcedure);
+
+//var result = parameters.Get<int>("@bookCount");
+
+var procedureName = "sp_lazy_students";
 
 var parameters = new DynamicParameters();
-parameters.Add("@AuthorId", 5, DbType.Int32, ParameterDirection.Input);
-parameters.Add("@bookCount", dbType: DbType.Int32, direction: ParameterDirection.Output);
+parameters.Add("@count", null, DbType.Int32, ParameterDirection.Output);
 
-connection.Execute(procName, parameters, commandType: CommandType.StoredProcedure);
+var result = connection.Query(procedureName, parameters, commandType: CommandType.StoredProcedure);
 
-var result = parameters.Get<int>("@bookCount");
-
+Console.WriteLine(parameters.Get<int>("@count"));
 
 #endregion
 

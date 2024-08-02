@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{6BC73CC5-30CF-4D29-B138-A291C080F59F}|Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading.csproj|solutionrelative:lesson5eagerlazyloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BC73CC5-30CF-4D29-B138-A291C080F59F}|Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5EagerLazyLoading\\lesson5eagerlazyloading\\lesson5eagerlazyloading.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6BC73CC5-30CF-4D29-B138-A291C080F59F}|Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading.csproj|solutionrelative:lesson5eagerlazyloading\\lesson5eagerlazyloading.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BC73CC5-30CF-4D29-B138-A291C080F59F}|Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5EagerLazyLoading\\lesson5eagerlazyloading\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BC73CC5-30CF-4D29-B138-A291C080F59F}|Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading.csproj|solutionrelative:lesson5eagerlazyloading\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC73CC5-30CF-4D29-B138-A291C080F59F}|Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5EagerLazyLoading\\lesson5eagerlazyloading\\lesson5eagerlazyloading.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BC73CC5-30CF-4D29-B138-A291C080F59F}|Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading.csproj|solutionrelative:lesson5eagerlazyloading\\lesson5eagerlazyloading.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BC73CC5-30CF-4D29-B138-A291C080F59F}|Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5EagerLazyLoading\\lesson5eagerlazyloading\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,7 +47,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Lesson5EagerLazyLoading.csproj",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading.csproj",
               "RelativeDocumentMoniker": "Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading.csproj",
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-15T06:58:56.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T06:58:56.236Z"
             },
             {
               "$type": "Document",
@@ -123,13 +122,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LibraryContext.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading\\Data\\LibraryContext.cs",
               "RelativeDocumentMoniker": "Lesson5EagerLazyLoading\\Data\\LibraryContext.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading\\Data\\LibraryContext.cs",
               "RelativeToolTip": "Lesson5EagerLazyLoading\\Data\\LibraryContext.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAwwB0AAAAmAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwB4AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T05:28:32.958Z",
               "EditorCaption": ""
@@ -142,7 +141,7 @@
               "RelativeDocumentMoniker": "Lesson5EagerLazyLoading\\Program.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson5EagerLazyLoading\\Lesson5EagerLazyLoading\\Program.cs",
               "RelativeToolTip": "Lesson5EagerLazyLoading\\Program.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABQAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T05:07:57.853Z",
               "EditorCaption": ""

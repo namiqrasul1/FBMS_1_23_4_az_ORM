@@ -28,17 +28,17 @@ var context = new LibraryContext();
 
 
 //var count = context.Books.ToList().Count(); // melumatlari dbden chekib ramda saxlayib sonra saydiq. maliyyet yuxaridir
-//var count = context.Books.Count(b => b.Quantity > 5);
-//Console.WriteLine(count);
+var count = context.Books.Count(b => b.Quantity > 5);
+Console.WriteLine(count);
 
 //var students = context.Students.Where(s => s.FirstName.Contains("s")).ToList();
 
-//var students = context.Students.Select(s => new { Name = s.FirstName, Surname = s.LastName });
+var students = context.Students.Select(s => new { Name = s.FirstName, Surname = s.LastName });
 
-//foreach (var student in students)
-//{
-//    Console.WriteLine(student);
-//}
+foreach (var student in students)
+{
+    Console.WriteLine(student);
+}
 
 
 

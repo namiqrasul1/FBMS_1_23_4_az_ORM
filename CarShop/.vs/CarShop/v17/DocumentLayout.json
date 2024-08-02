@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\carshop.presentation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572B0D94-57B8-4FAF-BE4A-C0EE2F9E22A8}|CarShop.Data\\CarShop.Data.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\carshop\\carshop.data\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572B0D94-57B8-4FAF-BE4A-C0EE2F9E22A8}|CarShop.Data\\CarShop.Data.csproj|solutionrelative:carshop.data\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\carshop.presentation\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|solutionrelative:carshop.presentation\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\carshop.presentation\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|solutionrelative:carshop.presentation\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\carshop\\carshop.presentation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|solutionrelative:carshop.presentation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572B0D94-57B8-4FAF-BE4A-C0EE2F9E22A8}|CarShop.Data\\CarShop.Data.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\carshop\\carshop.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572B0D94-57B8-4FAF-BE4A-C0EE2F9E22A8}|CarShop.Data\\CarShop.Data.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\carshop.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572B0D94-57B8-4FAF-BE4A-C0EE2F9E22A8}|CarShop.Data\\CarShop.Data.csproj|solutionrelative:carshop.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|solutionrelative:carshop.presentation\\views\\allcarsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\carshop\\carshop.presentation\\viewmodels\\allcarsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\carshop.presentation\\viewmodels\\allcarsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|solutionrelative:carshop.presentation\\viewmodels\\allcarsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\carshop.presentation\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|solutionrelative:carshop.presentation\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\carshop.presentation\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9476F32-8702-4D1E-AF84-0049B362B443}|CarShop.Presentation\\CarShop.Presentation.csproj|solutionrelative:carshop.presentation\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D642F1C-FA2C-4CD9-B652-B7CDC18A5F72}|CarShop.Models\\CarShop.Models.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\carshop.models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,24 +66,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Data\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CarShop.Data\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Data\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CarShop.Data\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:08:40.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Data\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "CarShop.Data\\ServiceRegistration.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Data\\ServiceRegistration.cs",
               "RelativeToolTip": "CarShop.Data\\ServiceRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T06:18:40.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Models\\Car.cs",
               "RelativeDocumentMoniker": "CarShop.Models\\Car.cs",
@@ -91,19 +108,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "CarShop.Presentation\\ViewModels\\MainViewModel.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "CarShop.Presentation\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T07:40:24.226Z"
+              "WhenOpened": "2024-07-19T07:40:24.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MainView.xaml",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\Views\\MainView.xaml",
               "RelativeDocumentMoniker": "CarShop.Presentation\\Views\\MainView.xaml",
@@ -114,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "EditView.xaml",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\Views\\EditView.xaml",
               "RelativeDocumentMoniker": "CarShop.Presentation\\Views\\EditView.xaml",
@@ -125,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\Commands\\RelayCommand.cs",
               "RelativeDocumentMoniker": "CarShop.Presentation\\Commands\\RelayCommand.cs",
@@ -137,19 +155,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "EditViewModel.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\ViewModels\\EditViewModel.cs",
               "RelativeDocumentMoniker": "CarShop.Presentation\\ViewModels\\EditViewModel.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\ViewModels\\EditViewModel.cs",
               "RelativeToolTip": "CarShop.Presentation\\ViewModels\\EditViewModel.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAQwCUAAAAfAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T07:34:47.122Z"
+              "WhenOpened": "2024-07-19T07:34:47.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Data\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "CarShop.Data\\Repositories\\IRepository.cs",
@@ -161,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Data\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "CarShop.Data\\Repositories\\Repository.cs",
@@ -173,32 +192,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\App.xaml.cs",
               "RelativeDocumentMoniker": "CarShop.Presentation\\App.xaml.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\App.xaml.cs",
               "RelativeToolTip": "CarShop.Presentation\\App.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA0wBkAAAAMAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwCwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T07:16:34.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\App.xaml",
               "RelativeDocumentMoniker": "CarShop.Presentation\\App.xaml",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\App.xaml",
               "RelativeToolTip": "CarShop.Presentation\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-19T07:16:24.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T07:16:24.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AllCarsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\ViewModels\\AllCarsViewModel.cs",
               "RelativeDocumentMoniker": "CarShop.Presentation\\ViewModels\\AllCarsViewModel.cs",
@@ -211,15 +229,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AllCarsView.xaml",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\Views\\AllCarsView.xaml",
               "RelativeDocumentMoniker": "CarShop.Presentation\\Views\\AllCarsView.xaml",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\CarShop\\CarShop.Presentation\\Views\\AllCarsView.xaml",
               "RelativeToolTip": "CarShop.Presentation\\Views\\AllCarsView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-19T07:10:41.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T07:10:41.53Z"
             }
           ]
         }

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8BAFA594-3947-44A4-A5A5-402D3E00D864}|Lesson10Dapper\\Lesson10Dapper.csproj|solutionrelative:lesson10dapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BAFA594-3947-44A4-A5A5-402D3E00D864}|Lesson10Dapper\\Lesson10Dapper.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_orm\\lesson10dapper\\lesson10dapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8BAFA594-3947-44A4-A5A5-402D3E00D864}|Lesson10Dapper\\Lesson10Dapper.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson10Dapper\\lesson10dapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8BAFA594-3947-44A4-A5A5-402D3E00D864}|Lesson10Dapper\\Lesson10Dapper.csproj|solutionrelative:lesson10dapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Lesson10Dapper\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-31T05:38:57.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T05:38:57.18Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Lesson10Dapper\\Models\\DTOs\\BookDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T06:41:56.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T06:41:56.571Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "Lesson10Dapper\\Models\\Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T06:09:39.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T06:09:39.453Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "Lesson10Dapper\\Models\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T05:56:16.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T05:56:16.171Z"
             },
             {
               "$type": "Document",
@@ -108,7 +104,7 @@
               "RelativeDocumentMoniker": "Lesson10Dapper\\Program.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_ORM\\Lesson10Dapper\\Lesson10Dapper\\Program.cs",
               "RelativeToolTip": "Lesson10Dapper\\Program.cs",
-              "ViewState": "AQIAAK0AAAAAAAAAAAD4v3MAAAAEAAAA",
+              "ViewState": "AQIAALsAAAAAAAAAAAAQwL8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T05:20:56.539Z",
               "EditorCaption": ""

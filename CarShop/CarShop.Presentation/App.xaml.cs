@@ -27,22 +27,22 @@ namespace CarShop.Presentation
         }
         private void AddOtherServices()
         {
-            Container.Register<INavigationService, NavigationService>();
+            Container.RegisterSingleton<INavigationService, NavigationService>();
         }
 
         private void AddViewModels()
         {
-            Container.Register<AllCarsViewModel>();
-            Container.Register<MainViewModel>();
-            Container.Register<EditViewModel>();
+            Container.RegisterSingleton<AllCarsViewModel>();
+            Container.RegisterSingleton<MainViewModel>();
+            Container.RegisterSingleton<EditViewModel>();
         }
 
         private void AddViews()
         {
-            Container.Register<MainView>();
-            Container.Register<AllCarsView>();
+            Container.RegisterSingleton<MainView>();
+            Container.RegisterSingleton<AllCarsView>();
             //Container.RegisterSingleton<AddProductView>();
-            Container.Register<EditView>();
+            Container.RegisterSingleton<EditView>();
         }
 
         protected override void OnStartup(StartupEventArgs e)

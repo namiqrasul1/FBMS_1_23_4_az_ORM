@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\source\\repos\\RequestApiSimpleMail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82606751-6887-4726-883E-849BA347FD80}|RequestApiSimpleMail\\RequestApiSimpleMail.csproj|c:\\users\\namiqrasullu\\source\\repos\\requestapisimplemail\\requestapisimplemail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82606751-6887-4726-883E-849BA347FD80}|RequestApiSimpleMail\\RequestApiSimpleMail.csproj|solutionrelative:requestapisimplemail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82606751-6887-4726-883E-849BA347FD80}|RequestApiSimpleMail\\RequestApiSimpleMail.csproj|c:\\users\\namiqrasullu\\source\\repos\\requestapisimplemail\\requestapisimplemail\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82606751-6887-4726-883E-849BA347FD80}|RequestApiSimpleMail\\RequestApiSimpleMail.csproj|solutionrelative:requestapisimplemail\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82606751-6887-4726-883E-849BA347FD80}|RequestApiSimpleMail\\RequestApiSimpleMail.csproj|c:\\users\\namiqrasullu\\source\\repos\\requestapisimplemail\\requestapisimplemail\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82606751-6887-4726-883E-849BA347FD80}|RequestApiSimpleMail\\RequestApiSimpleMail.csproj|solutionrelative:requestapisimplemail\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\RequestApiSimpleMail\\RequestApiSimpleMail\\Services\\MailService.cs",
+              "RelativeDocumentMoniker": "RequestApiSimpleMail\\Services\\MailService.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\RequestApiSimpleMail\\RequestApiSimpleMail\\Services\\MailService.cs",
+              "RelativeToolTip": "RequestApiSimpleMail\\Services\\MailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:22:27.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\RequestApiSimpleMail\\RequestApiSimpleMail\\Post.cs",
+              "RelativeDocumentMoniker": "RequestApiSimpleMail\\Post.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\RequestApiSimpleMail\\RequestApiSimpleMail\\Post.cs",
+              "RelativeToolTip": "RequestApiSimpleMail\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:46:58.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\RequestApiSimpleMail\\RequestApiSimpleMail\\Program.cs",
+              "RelativeDocumentMoniker": "RequestApiSimpleMail\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\RequestApiSimpleMail\\RequestApiSimpleMail\\Program.cs",
+              "RelativeToolTip": "RequestApiSimpleMail\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:21:22.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
